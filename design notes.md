@@ -21,7 +21,7 @@ WorldGen/Dimensions
 - Lost Cities
 - Lost Souls - LC addon
 - Bloodmoon
-- Dynamic Trees
+- Dynamic Trees/Chop Down Updated
 - FlatBedrock Xplosion's Edition
 - Cavern
 - DimensionalDoors
