@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "QCDPack",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "author": "QChronoD",
   "files": [
     {
@@ -202,6 +202,21 @@
     {
       "projectID": 223951,
       "fileID": 2532880,
+      "required": true
+    },
+    {
+      "projectID": 230976,
+      "fileID": 2463272,
+      "required": true
+    },
+    {
+      "projectID": 250898,
+      "fileID": 2571591,
+      "required": true
+    },
+    {
+      "projectID": 243679,
+      "fileID": 2575149,
       "required": true
     }
   ],
